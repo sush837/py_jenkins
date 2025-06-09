@@ -5,4 +5,16 @@ b = 20
 def cal():
     add = a+b
     print(add)
-cal()
+    sub = a-b
+    mul = a*b
+    div = a/b
+    addition = add
+    substraction = sub
+    multiplication = mul
+    division = div
+    print(addition)
+    print(substraction)
+    print(multiplication)
+    print(division)
+    cal()
+    
