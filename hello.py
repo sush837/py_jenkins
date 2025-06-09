@@ -12,5 +12,5 @@ def cal():
     print("Multiplication:", multiplication)
     print("Division:", division)
 
-call()
+cal()
 
