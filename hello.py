@@ -14,5 +14,5 @@ def cal():
      print(addition)
      print(substraction)
      print(multiplication)
-     print(div)
+     print(division)
 cal()
