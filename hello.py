@@ -12,9 +12,8 @@ def cal():
     substraction = sub
     multiplication = mul
     division = div
-    print(addition)
-    print(substraction)
-    print(multiplication)
-    print(division)
-    cal()
-    
+     print(addition)
+     print(substraction)
+     print(multiplication)
+     print(div)
+cal()
