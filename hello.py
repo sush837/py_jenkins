@@ -4,7 +4,6 @@ a = 10
 b = 20
 def cal():
     add = a+b
-    print(add)
     sub = a-b
     mul = a*b
     div = a/b
