@@ -11,7 +11,7 @@ def cal():
     #print("Subtraction:", subtraction)
     #print("Multiplication:", multiplication)
     #print("Division:", division)
-    print(f"Addition: {addition}\n Subtraction: {subtraction}\n Multiplication: {multiplication}\n Division: {division}")
+    print(f"Addition: {addition} \nSubtraction: {subtraction} \nMultiplication: {multiplication} \nDivision: {division}")
 cal()
 def str(s):
     str1 = ''
