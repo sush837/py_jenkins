@@ -7,10 +7,11 @@ def cal():
     subtraction = a - b
     multiplication = a * b
     division = a / b
-    print("Addition:", addition)
-    print("Subtraction:", subtraction)
-    print("Multiplication:", multiplication)
-    print("Division:", division)
+    #print("Addition:", addition)
+    #print("Subtraction:", subtraction)
+    #print("Multiplication:", multiplication)
+    #print("Division:", division)
+    print(f"Addition: {addition}\n Subtraction: {subtraction}\n Multiplication: {multiplication}\n Division: {division}")
 cal()
 def str(s):
     str1 = ''
