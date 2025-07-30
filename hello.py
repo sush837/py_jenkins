@@ -23,6 +23,7 @@ def rep(y):
     for x in y:
         rep2[x] = rep2.get(x,0) +1
     result = {k:v for k,v in rep2.items() if v>1}
+    return result
     rep3 = 'ijkijkijkijkijkijk'
 print(rep(rep3))
 
