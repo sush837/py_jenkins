@@ -11,7 +11,7 @@ def cal():
     print("Subtraction:", subtraction)
     print("Multiplication:", multiplication)
     print("Division:", division)
-
+cal()
 def str(s):
     str1 = ''
     for x in s:
