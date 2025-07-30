@@ -12,11 +12,10 @@ def cal():
     print("Multiplication:", multiplication)
     print("Division:", division)
 
-cal()
-def cal1(a):
-    cal = ''
-    for b in a:
-        cal = cal+b
-    return cal
-print(cal1('USNAM'))
+def str(s):
+    str1 = ''
+    for x in s:
+        str1 = x+str1
+    return str1
+print(str('Hello'))
 
