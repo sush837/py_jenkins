@@ -13,4 +13,10 @@ def cal():
     print("Division:", division)
 
 cal()
+def cal1(a):
+    cal = ''
+    for b in a:
+        cal = cal+b
+    return cal
+print(cal1('USNAM'))
 
