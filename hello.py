@@ -33,7 +33,6 @@ def count_1(m):
         if n == 'a':
             count = count+1
     return count
-    print('number of 'a'',count)
 print(count_1('abcabcabcabc'))
 
 
