@@ -34,7 +34,7 @@ def count_1(m):
             count = count+1
     return count
     print('number of 'a'',count)
-result = 'abcabcabcabc'
-count_1(result)
+print(count_1('abcabcabcabc'))
+
 
 
