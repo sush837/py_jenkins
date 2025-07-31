@@ -27,5 +27,14 @@ def rep(s):
     return result
 rep2 = 'xyzxyzxyzxyzxyzxyzxyzxyz'
 print(rep(rep2))
+def count_1(m):
+    count = 0
+    for n in m:
+        if n == 'a':
+            count = count+1
+    return count
+    print('number of 'a'',count)
+result = 'abcabcabcabc'
+count_1(result)
 
 
