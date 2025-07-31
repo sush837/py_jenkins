@@ -33,7 +33,9 @@ def count_1(m):
         if n == 'a':
             count = count+1
     return count
-print(count_1('abcabcabcabc'))
+    print(f"number of 'a'",count)
+count = 'ababababababab'
+print(count_1(count))
 
 
 
